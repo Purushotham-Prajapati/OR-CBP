@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+ENV/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data (Optional: ignore large data if needed, but keeping CSVs for project portability)
+# data/genuine/OrderList.csv

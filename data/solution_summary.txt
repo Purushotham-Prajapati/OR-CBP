@@ -1,0 +1,11 @@
+
+    =========================================
+    RETAIL SUPPLY CHAIN OPTIMIZATION SUMMARY
+    =========================================
+    Problem Status: Optimal
+    Total Warehouses (DCs): 10
+    Total Retail Stores: 50
+    Total Minimized Transportation Cost: $55,834.84
+    Total Units Shipped: 15,042
+    =========================================
+    

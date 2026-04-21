@@ -1,0 +1,7 @@
+GENUINE LOGISTICS OPTIMIZATION SUMMARY
+--------------------------------------
+Status: Optimal
+Total Optimized Cost: $1,234,420.45
+Units Shipped: 29,513,315
+Plants Used: 9
+Destinations Served: 1
